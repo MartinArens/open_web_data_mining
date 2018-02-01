@@ -27,6 +27,7 @@
     * Ports (MySQL, MongoDB, ...)
 
 **Other similar Projects**
+* http://httparchive.org
 * https://trends.builtwith.com/
 * https://www.wappalyzer.com/
 * https://www.whatruns.com/
@@ -69,8 +70,15 @@ HTTP Archive format (HAR) Viewer
 * http://www.softwareishard.com/har/viewer/
 * https://github.com/janodvarko/harviewer
 
+**Publish**
+* https://zenodo.org
+
 **Keywords**
 
+"Webometrie"
+"Webometrics"
+"Cybermetrics"
+"Web Mining"
 "Internet Data Mining",
 "Internet Research",
 "Internet Technologie Trends"
